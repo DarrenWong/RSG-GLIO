@@ -7,9 +7,9 @@ This repo will contains the data of  our submitted paper: **Roadside GNSS Aided 
 </p>
 
 ## Videos:
-Checkout our demo at [Video Link](https://youtu.be/zC7WAJiO9Mo)
+Checkout our demo at [Video Link](https://youtu.be/3gtn-n6iNjM) 
 <p align='center'>
-<a href="https://youtu.be/zC7WAJiO9Mo">
+<a href="https://youtu.be/3gtn-n6iNjM">
 <img width="65%" src="/img/demo.gif"/>
 </a>
 </p>
